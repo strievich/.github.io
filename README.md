@@ -1,2 +1,2 @@
-# .github.io
+# strievich.github.io
 Web page
